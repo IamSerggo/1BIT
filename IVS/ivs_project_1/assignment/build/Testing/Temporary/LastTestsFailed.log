@@ -1,0 +1,13 @@
+1:EmptyTree.InsertNode
+4:NonEmptyTree.InsertNode
+5:NonEmptyTree.DeleteNode
+6:NonEmptyTree.FindNode
+7:TreeAxioms.Axiom1
+8:TreeAxioms.Axiom2
+9:TreeAxioms.Axiom3
+26:TestingMatrix.Equation3x3
+28:NonEmptyQueue.Insert
+29:NonEmptyQueue.RemoveAllForward
+30:NonEmptyQueue.RemoveAllBackward
+31:NonEmptyQueue.Find
+32:EmptyQueue.Insert

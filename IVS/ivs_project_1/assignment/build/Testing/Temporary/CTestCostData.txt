@@ -1,0 +1,48 @@
+EmptyTree.InsertNode 0 0
+EmptyTree.DeleteNode 2 0.00124097
+EmptyTree.FindNode 2 0.00112903
+NonEmptyTree.InsertNode 0 0
+NonEmptyTree.DeleteNode 0 0
+NonEmptyTree.FindNode 0 0
+TreeAxioms.Axiom1 0 0
+TreeAxioms.Axiom2 0 0
+TreeAxioms.Axiom3 0 0
+TestingMatrix.Construct 2 0.00177801
+TestingMatrix.SetValueZero1x1Matrix 2 0.00126755
+TestingMatrix.SetValue6x6Matrix 2 0.001266
+TestingMatrix.SetValuesZero1x1Matrix 2 0.00186443
+TestingMatrix.SetValues2x3Matrix 2 0.00248802
+TestingMatrix.SetValues3x2Matrix 2 0.00131857
+TestingMatrix.SetValues6x6Matrix 2 0.00127959
+TestingMatrix.GetValuesZero1x1Matrix 2 0.00133693
+TestingMatrix.GetValues6x6Matrix 2 0.00283802
+TestingMatrix.Equal 2 0.00131702
+TestingMatrix.Plus 2 0.00123596
+TestingMatrix.Multiply 2 0.001212
+TestingMatrix.MultiplyConst 2 0.00121045
+TestingMatrix.EquationExceptions 2 0.00121653
+TestingMatrix.Equation1x1 2 0.00118995
+TestingMatrix.Equation2x2 2 0.00123203
+TestingMatrix.Equation3x3 1 0
+TestingMatrix.Equation6x6 2 0.00584602
+NonEmptyQueue.Insert 0 0
+NonEmptyQueue.RemoveAllForward 0 0
+NonEmptyQueue.RemoveAllBackward 0 0
+NonEmptyQueue.Find 0 0
+EmptyQueue.Insert 0 0
+EmptyQueue.Remove 2 0.00108945
+EmptyQueue.Find 2 0.00123894
+---
+EmptyTree.InsertNode
+NonEmptyTree.InsertNode
+NonEmptyTree.DeleteNode
+NonEmptyTree.FindNode
+TreeAxioms.Axiom1
+TreeAxioms.Axiom2
+TreeAxioms.Axiom3
+TestingMatrix.Equation3x3
+NonEmptyQueue.Insert
+NonEmptyQueue.RemoveAllForward
+NonEmptyQueue.RemoveAllBackward
+NonEmptyQueue.Find
+EmptyQueue.Insert
